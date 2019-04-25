@@ -5,6 +5,8 @@ A project to log colour names
 - Green
 - Blue
 
+This is 3 colours from the guy running the course
+
 ----------
 
 - magenta
